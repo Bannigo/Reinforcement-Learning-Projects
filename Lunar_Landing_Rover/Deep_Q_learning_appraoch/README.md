@@ -2,6 +2,10 @@
 
 This project demonstrates how to solve the [Lunar Lander](https://gymnasium.farama.org/environments/box2d/lunar_lander/#) environment from OpenAI Gymnasium using a Deep Q-Learning Network (DQN) implemented with PyTorch.
 
+<p align='center'>
+    <img src="demo.gif" alt="drawing" width="800"/>
+</p>
+
 ## Overview
 
 The Lunar Lander environment involves controlling a spacecraft to land it safely on a designated landing pad. The agent receives rewards based on its landing success, with positive rewards for successful landings and negative rewards for crashes or moving away from the landing pad.
